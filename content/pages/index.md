@@ -13,7 +13,7 @@ sections:
     #     style: button
   - section_id: latest-posts
     type: section_posts
-    title: Latest from the Blog
+    title: Welcome to Takshashila Perspectives.
     subtitle: >-
       This is where you can find an overview of the most interesting areas of research we're currently working on. 
     posts_number: 12
