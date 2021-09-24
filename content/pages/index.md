@@ -2,11 +2,11 @@
 title: Home
 hide_title: true
 sections:
-  - section_id: hero
-    type: section_hero
-    # title: 'Welcome to Takshashila Perspectives.'
-    content: >-
-      This is where you can find an overview of the most interesting areas of research we're currently working on. 
+#   - section_id: hero
+#     type: section_hero
+#     # title: 'Welcome to Takshashila Perspectives.'
+#     content: >-
+#       This is where you can find an overview of the most interesting areas of research we're currently working on. 
     # actions:
     #   - label: Let's talk
     #     url: /contact
