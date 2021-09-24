@@ -17,7 +17,7 @@ sections:
     subtitle: >-
       This is where you can find an overview of the most interesting areas of research we're currently working on. 
     posts_number: 12
-    col_number: two
+    col_number: three
 seo:
   title: Stackbit Exto Theme
   description: The preview of the Exto theme
