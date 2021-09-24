@@ -3,7 +3,7 @@ title: International Technical Standards
 excerpt: >-
     The next geopolitical tussle between technologically advanced states will be the race to set technical standards in critical and emerging technologies.  What should India’s approach be?
 date: '2019-03-27'
-thumb_image: https://dummyimage.com/400x400/9babe0/fff
+thumb_image: images/dummy-blue.png
 thumb_image_alt: A pile of books on the table
 # image: images/12.jpg
 # image_alt: A pile of books on the table
