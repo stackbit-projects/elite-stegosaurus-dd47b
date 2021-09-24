@@ -14,7 +14,8 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
-    subtitle: An optional subtitle of the section
+    subtitle: >-
+      This is where you can find an overview of the most interesting areas of research we're currently working on. 
     posts_number: 12
     col_number: two
 seo:
