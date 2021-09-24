@@ -1,56 +1,29 @@
 ---
-title: International Technical Standards
+title: Digital Communication Networks Governance
 excerpt: >-
-    The next geopolitical tussle between technologically advanced states will be the race to set technical standards in critical and emerging technologies.  What should India’s approach be?
-# date: '2019-03-27'
+Digital Communication Networks are deeply intertwined in several aspects of our lives. How can we govern them in ways that maximise the benefits and minimise the harms?
+date: '2021-09-24'
 thumb_image: images/dummy-blue.png
-thumb_image_alt: A pile of books on the table
-# image: images/12.jpg
-# image_alt: A pile of books on the table
-# seo:
-#   title: International Technical Standards
-#   description: >-
-#     Amet nibh adipiscing adipiscing ante vis placerat interdum massa massa
-#     primis
-#   extra:
-#     - name: 'og:type'
-#       value: article
-#       keyName: property
-#     - name: 'og:title'
-#       value: International Technical Standards
-#       keyName: property
-#     - name: 'og:description'
-#       value: >-
-#         Amet nibh adipiscing adipiscing ante vis placerat interdum massa massa
-#         primis
-#       keyName: property
-#     - name: 'og:image'
-#       value: images/12.jpg
-#       keyName: property
-#       relativeUrl: true
-#     - name: 'twitter:card'
-#       value: summary_large_image
-#     - name: 'twitter:title'
-#       value: International Technical Standards
-#     - name: 'twitter:description'
-#       value: >-
-#         Amet nibh adipiscing adipiscing ante vis placerat interdum massa massa
-#         primis
-#     - name: 'twitter:image'
-#       value: images/12.jpg
-#       relativeUrl: true
+thumb_image_alt: Dummy Image
 layout: post
 ---
+> Digital Communication Networks are deeply intertwined in several aspects of our lives. How can we govern them in ways that maximise the benefits and minimise the harms?
 
-> The next geopolitical tussle between technologically advanced states will be the race to set technical standards in critical and emerging technologies.  What should India’s approach be?
+## Summary
+Digital Communication Networks play an infrastructural role in public discourse and private communication. Though societies have successfully governed transformative technologies in the past, the pace and scale of changes enabled by DCNs are unprecedented. The Takshashila Institution believes that India needs to understand these changes and govern DCNs to maximise the surpluses they bring to Indian society while limiting the vulnerabilities they enable/exacerbate.
+ 
+## Defining Digital Communication Networks
 
-## Summary  
-
-Technical standards have historically been a private affair of big technology companies. An international technology standard helps to gain an economic and technological advantage over any competitors forcing the rest to follow a particular way of designing the technology.  But in recent times, a steady increase in the presence of governments’ participation has been observed in the process of standards-setting. States are now openly advocating for certain standards to be adopted as the global ones which would eventually benefit the state itself. A company situated on their soil and owning a global standard in a critical technology would mean the control of said technology supply chain.
-
-
+We define Digital Communication Networks (DCNs) as composite entities consisting of:
+-   Capability: Internet-based products/services that enable instantaneous low-cost or free communication across geographic, social, and cultural boundaries. This communication may be private (1:1), limited (1:n e.g. messaging groups), or broad (Twitter feeds, Facebook pages, YouTube videos, live streaming ), and so on.
+-   Operator(s): Firms/groups that design/operate these products and services.
+-   Networks: The entities/groups/individuals that adopt/use these products and services, and their interactions with each other.
+    
 ## Our Approach
+Faced with the growing economic and political power of the firms that operate DCNs, nation-states are exploring/experimenting with various approaches to govern them. However, the precise set of problems/harms are not always clearly defined in local contexts. 
 
-International technical standards have the possibility of changing the economic and technological domain of critical technologies. We, at Takshashila, believe that India should pose itself in a way that it does not bear the brunt of this geopolitical tussle and ensure that it ups the game in influencing and setting international technical standards in the future.
+A significant portion of the analyses of the effects of DCNs has been undertaken in the context of a limited set of developed economies. A research agenda based on the effects in India is yet to be formulated even as it has amongst the largest user bases for many of these networks. With an estimated 795 million internet connections and an average connection density of 59 connections per 100 people, the headroom for penetration of DCNs and greater effects on Indian society remains high. 
 
-The eventual decline of the dominance of the West in the standards domain offers an opportunity for India to play a bigger role in finalising and setting technology standards. But firstly, there is a need for the country to work towards strengthening the technology sector. At the same time, there is also a need for diplomats and foreign policy experts to understand the leverage that critical technologies hold in shaping the global economy. Finding a common ground between the two will help India play an active role in advocating for an international technical standard that can boost its domestic economic growth as well as project geopolitical influence.
+Effective governance of Digital Communication Networks requires analysing their effects on societies as a whole, rather than focussing on specific companies, technologies, sharing mechanisms, user dynamics, and so on— attributes that are constantly evolving. 
+
+This will require understanding their role in the spheres of competition, data, and narratives in parallel. As well as accounting for local context, the prospect of the rapid exchange of global influences, possible overlaps, and contradictions across a wide range of proposed solutions.
