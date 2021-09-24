@@ -23,10 +23,6 @@ sections:
     subtitle: An optional subtitle of the section
     posts_number: 12
     col_number: three
-    actions:
-      - label: View Blog
-        url: blog
-        style: button
 seo:
   title: Stackbit Exto Theme
   description: The preview of the Exto theme
