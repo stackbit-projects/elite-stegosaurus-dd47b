@@ -11,12 +11,6 @@ sections:
       - label: Let's talk
         url: /contact
         style: button
-  - section_id: services
-    type: section_grid
-    title: What We Do
-    subtitle: An optional subtitle of the section
-    col_number: two
-    is_numbered: true
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
