@@ -1,5 +1,5 @@
 ---
-title: Why Fonts Matter
+title: International Technical Standards
 excerpt: >-
   Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
   massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
@@ -10,7 +10,7 @@ thumb_image_alt: A pile of books on the table
 image: images/12.jpg
 image_alt: A pile of books on the table
 seo:
-  title: Why Fonts Matter
+  title: International Technical Standards
   description: >-
     Amet nibh adipiscing adipiscing ante vis placerat interdum massa massa
     primis
@@ -19,7 +19,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Why Fonts Matter
+      value: International Technical Standards
       keyName: property
     - name: 'og:description'
       value: >-
@@ -33,7 +33,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Why Fonts Matter
+      value: International Technical Standards
     - name: 'twitter:description'
       value: >-
         Amet nibh adipiscing adipiscing ante vis placerat interdum massa massa
