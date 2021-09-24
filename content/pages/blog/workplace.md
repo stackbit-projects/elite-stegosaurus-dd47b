@@ -1,6 +1,5 @@
 ---
 title: International Technical Standards
-researchers: Arjun Gargeyas
 excerpt: >-
 The next geopolitical tussle between technologically advanced states will be the race to set technical standards in critical and emerging technologies.  What should India’s approach be?
 date: '2019-03-24'
