@@ -7,10 +7,10 @@ sections:
     # title: 'Welcome to Takshashila Perspectives.'
     content: >-
       This is where you can find an overview of the most interesting areas of research we're currently working on. 
-    actions:
-      - label: Let's talk
-        url: /contact
-        style: button
+    # actions:
+    #   - label: Let's talk
+    #     url: /contact
+    #     style: button
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
