@@ -6,8 +6,7 @@ sections:
     type: section_hero
     title: 'Welcome to Takshashila Perspectives.'
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      This is where you can find 
     actions:
       - label: Let's talk
         url: /contact
