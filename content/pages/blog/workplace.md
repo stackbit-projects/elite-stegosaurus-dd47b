@@ -8,7 +8,6 @@ thumb_image: images/11_thumb.jpg
 thumb_image_alt: A leather notebook and a pen on a wooden working table
 # image: images/11.jpg
 image_alt: A leather notebook and a pen on a wooden working table
-relativeUrl: true
 layout: post
 ---
 
